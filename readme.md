@@ -66,4 +66,4 @@ The infrastructure is designed with cost optimization in mind, utilizing Spot In
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details for more information.
