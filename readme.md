@@ -10,7 +10,7 @@ The project is organized into several modules, each responsible for a specific a
 - **compute/**: Configures the compute resources, including ECS cluster, services, and auto-scaling.
 - **database/**: Provisions the database resources, including RDS, DynamoDB, and ElastiCache.
 - **security/**: Manages security groups, IAM roles, and compliance features.
-- **ci_cd/**: Sets up CI/CD pipelines using CodePipeline and CodeBuild.
+- **cicd/**: Sets up CI/CD pipelines using CodePipeline and CodeBuild.
 - **monitoring/**: Configures monitoring and logging for the infrastructure.
 
 ## Prerequisites
