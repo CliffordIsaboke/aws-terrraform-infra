@@ -22,28 +22,24 @@ The project is organized into several modules, each responsible for a specific a
 ## Setup Instructions
 
 1. **Clone the Repository**:
-   ```bash
    git clone <repository-url>
    cd terraform-aws-infra
-   ```
+   
 
 2. **Initialize Terraform**:
-   ```bash
    terraform init
-   ```
+   
 
 3. **Configure Variables**:
-   Update the `variables.tf` files in each module to set your desired configurations.
+   Update the variables.tf files in each module to set your desired configurations.
 
 4. **Plan the Deployment**:
-   ```bash
    terraform plan
-   ```
+   
 
 5. **Apply the Configuration**:
-   ```bash
    terraform apply
-   ```
+   
 
 6. **Access Outputs**:
    After deployment, you can find the public ALB DNS, ECS service name, RDS endpoint, and Redis endpoint in the outputs.
