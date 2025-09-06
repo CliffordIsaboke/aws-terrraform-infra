@@ -50,11 +50,11 @@ The project is organized into several modules, each responsible for a specific a
 
 ## Modules Overview
 
-- **Networking Module**: Sets up the VPC and subnets required for the application.
-- **Compute Module**: Deploys the ECS service and configures auto-scaling and logging.
-- **Database Module**: Provisions RDS, DynamoDB, and ElastiCache for data storage.
-- **Security Module**: Configures security groups and IAM roles for secure access.
-- **CI/CD Module**: Integrates with CodePipeline and CodeBuild for automated deployments.
+- **Networking Module**:   Sets up the VPC and subnets required for the application.
+- **Compute Module**:      Deploys the ECS service and configures auto-scaling and logging.
+- **Database Module**:     Provisions RDS, DynamoDB, and ElastiCache for data storage.
+- **Security Module**:     Configures security groups and IAM roles for secure access.
+- **CI/CD Module**:        Integrates with CodePipeline and CodeBuild for automated deployments.
 
 ## Security & Compliance
 
